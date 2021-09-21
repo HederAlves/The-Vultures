@@ -5,11 +5,17 @@
 
 .containerConteudoPrincipal {
 	text-align: center;
-
 }
 
 .containerConteudoPrincipal li {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+.containerContato {
+	display: flex;
+	flex-direction: column;
 
 }
