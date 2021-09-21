@@ -2,3 +2,14 @@
 	display: flex;
 	justify-content: center;
 }
+
+.containerConteudoPrincipal {
+	text-align: center;
+
+}
+
+.containerConteudoPrincipal li {
+	display: flex;
+	flex-wrap: wrap;
+
+}
